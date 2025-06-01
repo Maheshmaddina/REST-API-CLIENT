@@ -62,4 +62,4 @@ No error handling for city input or invalid responses.
 
 
 # OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/77eb2c62-0f44-465c-a8ae-8c0f6e70619c)
